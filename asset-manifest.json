@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pms-build/static/css/main.a17276d6.css",
+    "main.js": "/pms-build/static/js/main.a223045e.js",
+    "static/media/EudoxusSansGX.woff2": "/pms-build/static/media/EudoxusSansGX.66e00bcc278d7792b06a.woff2",
+    "index.html": "/pms-build/index.html",
+    "main.a17276d6.css.map": "/pms-build/static/css/main.a17276d6.css.map",
+    "main.a223045e.js.map": "/pms-build/static/js/main.a223045e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a17276d6.css",
+    "static/js/main.a223045e.js"
+  ]
+}
